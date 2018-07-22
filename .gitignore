@@ -1,0 +1,4 @@
+*.TMP
+.mxproject
+mx.scratch
+STM32F407IGHx_shell.ioc
